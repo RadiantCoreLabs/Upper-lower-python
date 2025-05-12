@@ -10,7 +10,7 @@
 ## Installation  
 No dependencies needed! Just clone and run:  
 ```bash
-git clone https://github.com/your-username/upper-lower-python.git
+git clone https://github.com/RadiantCoreLabs/upper-lower-python.git
 cd upper-lower-python
 Usage
 Run the script and follow the prompts:
